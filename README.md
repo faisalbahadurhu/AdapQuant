@@ -1,5 +1,4 @@
 # AdapQuant
-# AdapQuant
 
 **AdapQuant** is a resource-adaptive quantile sketch designed for continuous data streams on small or resource-changing devices. It allows the currently active quantile sketch to change according to the available device-resource state while preserving useful summaries from earlier periods.
 
